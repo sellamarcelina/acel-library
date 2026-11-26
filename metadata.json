@@ -1,0 +1,8 @@
+{
+  "name": "Aksara Pustaka",
+  "description": "Aplikasi perpustakaan digital berbasis web dengan fitur peminjaman buku, manajemen koleksi, pelaporan otomatis, serta dashboard real-time untuk Admin dan Member.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
